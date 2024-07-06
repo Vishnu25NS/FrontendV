@@ -2,7 +2,7 @@ function Home()
 {
     return(
     <div style={{
-        height:'650px',backgroundImage:'url(home.jpg)',backgroundSize:'cover',width:'1473px'
+        height:'600px',backgroundImage:'url(home.jpg)',backgroundSize:'cover',width:'100%'
     ,opacity:'60%'}}>
        
     </div>

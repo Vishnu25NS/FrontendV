@@ -18,9 +18,8 @@ function NavBar()
                marginTop:'30px'}}><b><i>EXPRESS</i></b></text>
                <div style={{display:'flex',
                 justifyContent:'space-between',
-                gap:'60px',
                 marginTop:'60px',
-                height:'50px',width:'600px',
+                height:'50px',width:'60%',
                 marginRight:'20px'}}>
                <text style={{color:'black',
                 textDecoration:'underline',fontSize:'20px',opacity:'100%'}}><a href="http://localhost:3000">Home</a></text>
