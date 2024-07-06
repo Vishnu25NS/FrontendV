@@ -6,7 +6,7 @@ function NavBar()
          textEmphasisColor:'Highlight',
          justifyContent:'space-between',
          display:'flex'
-         ,border:'solid white 2px'
+         ,border:'solid white 2px',width:'98.45%'
         }}>
   <text style={{fontSize:'30px',
                fontStyle:'normal',
