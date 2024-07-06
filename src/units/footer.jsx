@@ -7,7 +7,7 @@ function Footer()
             display:'flex',
             justifyContent:'center',height:'50px',
             border:"solid white 2px"
-            
+            ,width:"98.45%",padding:'10px'
         }}>
            <text style={{fontStyle:'italic',
             fontSize:'20px',color:'white'
